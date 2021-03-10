@@ -4,6 +4,6 @@
 #include <cam_intf.h>
 
 int main() {
-    printf("Size of metadata_buffer_t is: %d", sizeof(metadata_buffer_t));
+    printf("Size of cam_capability_t is: %d", sizeof(cam_capability_t));
     return 0;
 }
